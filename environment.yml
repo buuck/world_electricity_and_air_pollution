@@ -1,0 +1,13 @@
+name: electricity_pollution
+dependencies:
+  - folium
+  - geopandas
+  - geodatasets
+  - numpy
+  - seaborn
+  - shapely
+  - scikit-learn
+  - ipykernel
+  - nbconvert
+channels:
+  - conda-forge
